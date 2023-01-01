@@ -39,7 +39,7 @@ body {
   height: calc(100vh - 5rem);
   width: 500vw;
   display: flex;
-  /* transform: translateX(-100vw); */
+  transition: 1s ease;
 }
 
 .slide {
